@@ -1,4 +1,4 @@
-import { createHeader } from './Header';
+import { createHeader } from '../components/Header';
 import './page.css';
 
 type User = {
